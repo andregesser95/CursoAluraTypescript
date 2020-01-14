@@ -34,8 +34,8 @@ System.register(["./View"], function (exports_1, context_1) {
                 </tbody>
     
                 <tfoot>
-                </tfoot>
-            </table> 
+                </tfoot>                
+            </table>
             `;
                 }
             };

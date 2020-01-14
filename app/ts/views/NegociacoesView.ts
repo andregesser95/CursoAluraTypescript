@@ -30,8 +30,8 @@ export class NegociacoesView extends View<Negociacoes> {
                 </tbody>
     
                 <tfoot>
-                </tfoot>
-            </table> 
+                </tfoot>                
+            </table>
             `;
     }
 }
